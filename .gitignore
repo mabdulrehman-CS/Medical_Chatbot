@@ -24,3 +24,6 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+# Model files (too large for GitHub)
+*.gguf
+model/*.gguf
